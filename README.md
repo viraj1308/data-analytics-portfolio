@@ -22,7 +22,7 @@ Business Analyst | Data Analyst | SQL · Python · Power BI · NLP
 - A **1% rise in Brent crude reduces airline stock returns by approximately 0.18%**
 - **Negative investor sentiment drives stock declines of up to 0.7% within two trading days**
 
-📂 [View project notebook](./bloomberg-airline-analysis/)
+📂 [View project notebook]([./bloomberg-airline-analysis/](https://github.com/viraj1308/data-analytics-portfolio/blob/main/bloomberg_airline_analysis.ipynb))
 
 ---
 
