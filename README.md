@@ -22,7 +22,7 @@ Business Analyst | Data Analyst | SQL · Python · Power BI · NLP
 - A **1% rise in Brent crude reduces airline stock returns by approximately 0.18%**
 - **Negative investor sentiment drives stock declines of up to 0.7% within two trading days**
 
-📂 [View project notebook](./bloomberg-airline-analysis/)
+📂 [View project notebook](./bloomberg-airline-analysis.ipynb/)
 
 ---
 
@@ -39,7 +39,7 @@ Business Analyst | Data Analyst | SQL · Python · Power BI · NLP
 - **OTA-channel guests (Booking.com, Expedia) gave systematically worse value sentiment than direct-booking guests at identical room rates**
 - Root cause: expectation-setting at booking stage, not pricing — directly actionable for revenue and channel strategy teams
 
-📂 [View project notebook](./hotel-nlp-sentiment/)
+📂 [View project notebook](./hotel-nlp-sentiment.ipynb/)
 
 ---
 
@@ -51,7 +51,7 @@ Business Analyst | Data Analyst | SQL · Python · Power BI · NLP
 - Identified 3 distinct high-value customer cohorts
 - Translated quantitative segment profiles into stakeholder-ready personalisation recommendations
 
-📂 [View project notebook](./customer-segmentation/)
+📂 [View project notebook](./customer-segmentation.ipynb/)
 
 ---
 
