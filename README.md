@@ -79,7 +79,7 @@ Business Analyst | Data Analyst | SQL · Python · Power BI · NLP
 ```bash
 git clone https://github.com/viraj1308/data-analytics-portfolio.git
 cd data-analytics-portfolio
-pip install pandas numpy matplotlib seaborn scipy scikit-learn jupyter
+pip install -r requirements.txt
 jupyter notebook
 ```
 
