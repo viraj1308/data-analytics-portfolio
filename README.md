@@ -75,6 +75,19 @@ Business Analyst | Data Analyst | SQL · Python · Power BI · NLP
 
 ---
 
+## 📄 Coursework reports
+
+Full write-ups from my MSc Business Analytics at Queen Mary University of London (2024–25). Each one is my own work; the airline report is my section of a group project.
+
+| Report | Business question | Method and result |
+|---|---|---|
+| [**Airline analysis (Bloomberg)**](./reports/Airline_Analysis_Viraj_Pahade.pdf) | How do oil prices and news sentiment move airline share prices? | Correlation, volatility, regression and event studies on 8 airlines, 2018–2025 (my section of a five-person group project) |
+| [**Working from home and satisfaction**](./reports/WFH_Satisfaction_Experiment_Viraj_Pahade.pdf) | Do marital status and children change how satisfied employees are with working from home? | t-tests and regression in R: working from home raises satisfaction significantly; marriage has a small positive effect; children have no significant effect |
+| [**US consumption forecasting**](./reports/US_Consumption_Forecasting_Viraj_Pahade.pdf) | Do income, production, savings and unemployment improve a consumption forecast? | ARIMA vs regression with ARIMA errors in R; the regression model beat ARIMA on RMSE, MAE and MAPE |
+| [**BI report design (SAS)**](./reports/SAS_BI_Report_Design_Viraj_Pahade.pdf) | Does a SAS Visual Analytics sales report give managers what they need? | Critique of the report's layout, charts and interactivity, with a proposed overview page linking its sections |
+
+---
+
 ## Run the notebooks
 
 ```bash
