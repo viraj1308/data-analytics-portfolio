@@ -35,7 +35,8 @@ Business Analyst | Data Analyst | SQL · Python · Power BI · NLP
 - **Negative investor sentiment drives stock declines of up to 0.7% within two trading days**
 - American Airlines was the most exposed to oil prices and Singapore Airlines the least, consistent with differences in their fuel-hedging programmes
 
-📂 [View project notebook](./bloomberg_airline_analysis.ipynb)
+📂 [View project notebook](./bloomberg_airline_analysis.ipynb)<br>
+📄 [Read the full analysis report (PDF)](./reports/Airline_Analysis_Viraj_Pahade.pdf): my section of a five-person MSc group project, using Bloomberg Terminal data
 
 ---
 
